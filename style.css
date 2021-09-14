@@ -1,0 +1,29 @@
+/* Get two google fonts */
+
+body {
+  background-color: #494949;
+  color: #f4c20c;
+  font-family: 'Lato', sans-serif;
+}
+
+header {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+aside {
+  width: 35vw;
+}
+
